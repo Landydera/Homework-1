@@ -1,0 +1,54 @@
+Position, Track Name, Artist. Streams, URL
+1, Dans l'espace (feat. Heuss l'EnfoirÃ©),	Gambi, 302314, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+2, Ne reviens pas, Gradur, 301925, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+3, Distant	Maes, 292981, https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+4. Blanche	Maes, 278261, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+5, Blinding Lights, The Weeknd, 272076, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+6, Dans l'espace (feat. Heuss l'EnfoirÃ©), Gambi, 264269.4, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+7, Ne reviens pas, Gradur, 255855.4, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+8, Distant,	Maes, 247441.4, https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+9, Blanche, Maes, 239027.4, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+10, Blinding Lights, The Weeknd, 230613.4, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+11, Dans l'espace (feat. Heuss l'EnfoirÃ©), Gambi, 222199.4, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+12, Ne reviens pas, Gradur, 213785.4, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+13, Distant, Maes, 205371.4, https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+14, Blanche, Maes, 196957.4, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+15, Blinding Lights, The Weeknd, 188543.4, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+16, Dans l'espace (feat. Heuss l'EnfoirÃ©), Gambi, 180129.4, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+17, Ne reviens pas, Gradur, 171715.4, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+18, Distant, Maes, 163301.4, https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+19, Blanche, Maes, 154887.4, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+20, Blinding Lights, The Weeknd, 146473.4, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+21, Dans l'espace (feat. Heuss l'EnfoirÃ©), Gambi, 138059.4, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+22, Ne reviens pas, Gradur, 129645.4, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+23, Distant, Maes, 121231.4,  https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+24, Blanche, Maes, 112817.4, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+25, Blinding Lights, The Weeknd, 104403.4, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+26, Dans l'espace (feat. Heuss l'EnfoirÃ©), Gambi, 95989.4, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+27, Ne reviens pas, Gradur, 87575.4, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+28, Distant, Maes, 79161.4, https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+29, Blanche, Maes, 70747.4, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+30, Blinding Lights, The Weeknd, 62333.4, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+31, Dans l'espace (feat. Heuss l'EnfoirÃ©), Gambi, 53919.4, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+32, Ne reviens pas, Gradur, 45505.4, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+33, Distant, Maes, 37091.4, https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+34, Blanche, Maes, 28677.4, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+35, Blinding Lights, The Weeknd, 20263.4, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+36, Dans l'espace (feat. Heuss l'EnfoirÃ©), Gambi, 11849.4, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+37, Ne reviens pas, Gradur, 3435.4, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+38, Distant, Maes, 4978.6, https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+39, Blanche, Maes, 13392.6, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+40, Blinding Lights, The Weeknd, 21806.6, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+41, Dans l'espace (feat. Heuss l'EnfoirÃ©), Gambi, 30220.6, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+42, Ne reviens pas, Gradur, 38634.6, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+43, Distant, Maes, 47048.6, https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+44, Blanche, Maes, 55462.6, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+45, Blinding Lights, The Weeknd, 63876.6, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+46, Dans l'espace (feat. Heuss l'EnfoirÃ©), Gambi, 72290.6, https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv					
+47, Ne reviens pas, Gradur, 80704.6, https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH					
+48, Distant, Maes, 89118.6, https://open.spotify.com/track/1Sb7QJRawbARgpMqyYNMkT					
+49, Blanche, Maes, 97532.6, https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv					
+50, Blinding Lights, The Weeknd, 105946.6, https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD					
+
+
+
