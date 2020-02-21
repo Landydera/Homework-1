@@ -1,0 +1,41 @@
+Artist,0
+Tones and I,0
+Ricch,0
+KAROL G,0
+Eminem,0
+Justin Bieber,0
+Future,0
+The Weeknd,0
+Arizona Zervas,0
+Trevor Daniel,0
+Dua Lipa,0
+Maroon,0
+Post Malone,0
+Billie Eilish,0
+Mac Miller,0
+The Black Eyed Peas,0
+Halsey,0
+Lewis Capaldi,0
+Shawn Mendes,0
+BTS,0
+Selena Gomez,0
+Harry Styles,0
+Camila Cabello,0
+Jonas Brothers,0
+Flow,0
+blackbear,0
+Bad Bunny,0
+DaBaby,0
+Regard,0
+YNW Melly,0
+Don Toliver,0
+Rauw Alejandro,0
+Dalex,0
+MEDUZA,0
+Doja Cat,0
+Anuel AA,0
+BROCKHAMPTON,0
+Travis Scott,0
+Tyga,0
+Miller,0
+Ed Sheeran,0
